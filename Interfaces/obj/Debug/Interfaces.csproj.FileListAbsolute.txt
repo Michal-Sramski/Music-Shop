@@ -1,0 +1,12 @@
+C:\Users\dawid\source\repos\MusicShop\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\dawid\source\repos\MusicShop\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\dawid\source\repos\MusicShop\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\MusicShop\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\MusicShop\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\dawid\source\repos\MusicShop\Interfaces\obj\Debug\Interfaces.pdb
+C:\Polibuda\Programowanie wizualne\MusicShop\Interfaces\bin\Debug\Interfaces.dll
+C:\Polibuda\Programowanie wizualne\MusicShop\Interfaces\bin\Debug\Interfaces.pdb
+C:\Polibuda\Programowanie wizualne\MusicShop\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Polibuda\Programowanie wizualne\MusicShop\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Polibuda\Programowanie wizualne\MusicShop\Interfaces\obj\Debug\Interfaces.dll
+C:\Polibuda\Programowanie wizualne\MusicShop\Interfaces\obj\Debug\Interfaces.pdb

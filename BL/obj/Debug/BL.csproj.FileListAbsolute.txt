@@ -1,0 +1,22 @@
+C:\Users\dawid\source\repos\MusicShop\BL\bin\Debug\BL.dll
+C:\Users\dawid\source\repos\MusicShop\BL\bin\Debug\BL.pdb
+C:\Users\dawid\source\repos\MusicShop\BL\bin\Debug\DataMock.dll
+C:\Users\dawid\source\repos\MusicShop\BL\bin\Debug\Interfaces.dll
+C:\Users\dawid\source\repos\MusicShop\BL\bin\Debug\DataMock.pdb
+C:\Users\dawid\source\repos\MusicShop\BL\bin\Debug\Interfaces.pdb
+C:\Users\dawid\source\repos\MusicShop\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\MusicShop\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\MusicShop\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\dawid\source\repos\MusicShop\BL\obj\Debug\BL.dll
+C:\Users\dawid\source\repos\MusicShop\BL\obj\Debug\BL.pdb
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\bin\Debug\BL.dll
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\bin\Debug\BL.pdb
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\bin\Debug\DataMock.dll
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\bin\Debug\Interfaces.dll
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\bin\Debug\DataMock.pdb
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\bin\Debug\Interfaces.pdb
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\obj\Debug\BL.dll
+C:\Polibuda\Programowanie wizualne\MusicShop\BL\obj\Debug\BL.pdb
